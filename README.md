@@ -27,9 +27,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
-## 🧩 Woony's Algorithm
+## 🧩 Algorithm
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=whoiswoony)](https://solved.ac/WhoIsWoony/)
 
-## 💻 Woony's Language Stats
+## 💻 Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whoiswoony&layout=compact&theme=dark)
 
