@@ -1,5 +1,7 @@
 # 😃 Hello, I'm WOONY!
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWhoIsWoony%2FAboutMe.git&count_bg=%23000000&title_bg=%236D6D6D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=whoiswoony)](https://solved.ac/WhoIsWoony/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whoiswoony&layout=compact&theme=dark)
 ### Language
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -26,10 +28,4 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-
-## 🧩 Algorithm
-[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=whoiswoony)](https://solved.ac/WhoIsWoony/)
-
-## 💻 Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whoiswoony&layout=compact&theme=dark)
 
