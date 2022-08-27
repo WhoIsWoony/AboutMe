@@ -34,9 +34,6 @@
 ## Woony's Algorithm
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=whoiswoony)](https://solved.ac/WhoIsWoony/)
 
-## Woony's GitHub Stats
-![Woony's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhoIsWoony&show_icons=true&theme=dark)
-
 ## Woony's Language Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whoiswoony&layout=compact&theme=dark)
 
