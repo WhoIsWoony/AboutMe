@@ -31,3 +31,6 @@
 
 ## Woony's GitHub Stats
 ![Woony's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhoIsWoony&show_icons=true&theme=radical)
+
+## Old_Woony's GitHub Stats (clover7kso)
+![Woony's GitHub stats](https://github-readme-stats.vercel.app/api?username=clover7kso&show_icons=true&theme=radical)
