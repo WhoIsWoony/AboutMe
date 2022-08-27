@@ -31,3 +31,6 @@
 
 ## Woony's GitHub Stats
 ![Woony's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhoIsWoony&show_icons=true&theme=radical)
+
+## Woony's Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whoiswoony)](https://solved.ac/whoiswoony/)
