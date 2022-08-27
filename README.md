@@ -1,6 +1,8 @@
 # 😃 Hello, I'm WOONY!
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWhoIsWoony%2FAboutMe.git&count_bg=%23000000&title_bg=%236D6D6D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=whoiswoony)](https://solved.ac/WhoIsWoony/)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whoiswoony&layout=compact&theme=dark)
 ### Language
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
